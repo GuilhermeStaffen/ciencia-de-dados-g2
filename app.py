@@ -10,6 +10,11 @@ Bem-vindo ao painel interativo que explora dados de acidentes nas rodovias da Vi
 
 Esse painel foi desenvolvido como trabalho final para a disciplina de Ciencia de Dados no primeiro semestre de 2025.
 
+### Desenvolvido por:
+- Crystopher Kochler
+- Eduardo Kochler  
+- Guilherme Staffen
+
 ### Como navegar:
 - Use o menu lateral para explorar diferentes aspectos dos dados.
     - Na aba "Resumo Geral", você vai encontrar uma visão geral dos acidentes, incluindo gráficos de distribuição por KM e por sentido.

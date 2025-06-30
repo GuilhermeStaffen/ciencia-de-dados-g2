@@ -23,3 +23,6 @@ Fonte: demostrativo_acidentes_viabrasil.csv contido na pasta "data"
 
 ## Discentes
 Crystopher Kochler, Eduardo Kochler e Guilherme Staffen
+
+## Streamlit
+[Link para acesso do painel](https://ciencia-de-dados-g2-lgyt9ukhzbscyqszrxganr.streamlit.app/)
