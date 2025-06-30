@@ -19,5 +19,7 @@ ou
 3. Navegue pelas páginas no menu lateral.
 
 ## Dados
-
 Fonte: demostrativo_acidentes_viabrasil.csv contido na pasta "data"
+
+## Discentes
+Crystopher Kochler, Eduardo Kochler e Guilherme Staffen
